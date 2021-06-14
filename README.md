@@ -1,2 +1,2 @@
 # HTML-harkat
-Tähän kansioon tulee minun HTML-harjoitustyöt
+Tähän kansioon tulee minun HTML-harjoitustyötä
